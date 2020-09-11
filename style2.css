@@ -1,0 +1,75 @@
+*{margin: 0;padding: 0;outline: 0}
+body{font-size:16px;line-height:25px;font-family:arial;}
+.wrapper{margin:0 auto;width:960px;background:#EFEFEE}
+.header{}
+.header h3{color:#fff;font-size:25px;background:#525251;padding:15px 40px;text-align:center;}
+.mainmenu{margin-top:5px;}
+.mainmenu ul{list-style:none;}
+.mainmenu ul li{float:left;}
+.mainmenu ul li a{text-decoration:none;color:#fff;padding:5px 10px;background:#525251;border-right:1px solid #fff;}
+.mainmenu ul li a:hover{}
+.st{border-bottom:2px solid #000000;margin-top:30px}
+.content {
+  text-align: center;
+    margin: 0 auto;
+    margin-top: 60px;
+    background: #D9D9D8;
+    padding: 2px 71px;
+    width: 210px;
+}
+.msg{text-align:center;}
+.login_reg {
+    margin: 0 auto;
+    margin-top: 10px;
+    background: #D9D9D8;
+    padding: 12px 19px;
+    width:313px;
+}
+.login_reg input[type="text"],.login_reg input[type="password"] {
+  height: 20px;
+  margin-top: 5px;
+  width: 220px;
+}
+
+.login_reg input[type="reset"],.login_reg input[type="submit"] {
+  float: right;
+  height: 22px;
+  margin: 2px 2px;
+  width: 60px;
+  background:#525251;
+}
+.back{text-align: center;}
+.footer{}
+.footer h3{color:#fff;font-size:20px;background:#525251;padding:10px 40px;text-align:center;}
+/*CSS for index page */
+
+.user{margin:0 auto;
+    margin-top: 10px;
+    background: #D9D9D8;
+    padding: 2px 71px;
+    width: 210px;
+    text-align: center;}
+.userlist{margin:0 auto;
+    margin-top: 10px;
+    background: #fff;
+    padding: 2px 71px;
+    width: 210px;
+    color:green;
+    font-size:20px;
+    margin-bottom:10px;
+  text-align: center;}
+   .style_table{margin:0 auto;}
+  .style_table tr th{background:#888;padding:3px 35px;color:#fff;text-shadow:1px 1px 1px #000;}
+  .style_table tr:nth-child(2n){background:#efefef;height: 200px;}
+  .style_table tr:nth-child(2n+1){background:#ccc;}
+  .style_table tr td a{text-decoration:none;color:#0078D7;}
+  
+  .login_msg{margin: 10px auto;
+    background:#00FA08;
+    text-align: center;
+    width: 350px;}
+    
+    .error{color: red;}
+
+   
+    
